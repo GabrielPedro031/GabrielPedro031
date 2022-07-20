@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielPedro031
-- 👀 I’m interested in work as front-end programmers
+- 👀 I'm interested in working as a Full-Stack developer
 - 🌱 I’m currently learning Working with systems development
 - 💞️ I’m looking to collaborate on javascript among others
 - 📫 How to reach me coming soon
